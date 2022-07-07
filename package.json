@@ -12,7 +12,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "glob": "^7.1.6",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "vant": "^2.4.7",
     "vue": "^2.5.2",
     "vue-awesome-swiper": "^3.1.3",
